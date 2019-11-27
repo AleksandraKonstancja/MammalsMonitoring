@@ -1,0 +1,3 @@
+C:/Users/euro/Desktop/Assignment/CS23820_2017_alm82/Part1/cmake-build-debug/CMakeFiles/Part1.dir
+C:/Users/euro/Desktop/Assignment/CS23820_2017_alm82/Part1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/euro/Desktop/Assignment/CS23820_2017_alm82/Part1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
