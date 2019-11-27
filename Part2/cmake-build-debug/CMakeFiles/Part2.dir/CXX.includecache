@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/euro/Desktop/Assignment/CS23820_2017_alm82/Part2/Location.cpp
+cstdlib
+-
+fstream
+-
+cmath
+-
+Location.h
+C:/Users/euro/Desktop/Assignment/CS23820_2017_alm82/Part2/Location.h
+
+C:/Users/euro/Desktop/Assignment/CS23820_2017_alm82/Part2/Location.h
+
+C:/Users/euro/Desktop/Assignment/CS23820_2017_alm82/Part2/MammalData.cpp
+MammalData.h
+C:/Users/euro/Desktop/Assignment/CS23820_2017_alm82/Part2/MammalData.h
+
+C:/Users/euro/Desktop/Assignment/CS23820_2017_alm82/Part2/MammalData.h
+fstream
+-
+Location.h
+C:/Users/euro/Desktop/Assignment/CS23820_2017_alm82/Part2/Location.h
+
+C:/Users/euro/Desktop/Assignment/CS23820_2017_alm82/Part2/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+MammalData.h
+C:/Users/euro/Desktop/Assignment/CS23820_2017_alm82/Part2/MammalData.h
+
